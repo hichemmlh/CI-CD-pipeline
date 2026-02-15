@@ -48,5 +48,5 @@ jobs:
         with:
           scan-type: 'fs'
           scan-ref: '.'
-          format: 'table'        # On change 'sarif' en 'table' pour voir le résultat ici
+          format: 'table'        
           severity: 'CRITICAL, HIGH'
